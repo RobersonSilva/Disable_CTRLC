@@ -1,0 +1,9 @@
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\bin\Release\Disable_CTRLC.exe
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\bin\Release\Disable_CTRLC.pdb
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\bin\Release\Disable_CTRLC.xml
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\obj\Release\Disable_CTRLC.Form1.resources
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\obj\Release\Disable_CTRLC.Resources.resources
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\obj\Release\Disable_CTRLC.vbproj.GenerateResource.Cache
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\obj\Release\Disable_CTRLC.exe
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\obj\Release\Disable_CTRLC.xml
+c:\users\roberson.silva\documents\visual studio 2017\Projects\Disable_CTRLC\Disable_CTRLC\obj\Release\Disable_CTRLC.pdb
